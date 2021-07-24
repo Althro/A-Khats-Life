@@ -368,8 +368,9 @@ You can just delete the MO2 folder and be done with it.
 - jdsmith2816 - Reviving SkyRe, the Reproccer, and having a magnificent beard.
 - iXanza for recompiled MCM scripts for automation, and helping Shelb figure out how to automate the MCMs for Tinvaak.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
-- Mantis for Ultrawide installation instructions and the logo.
+- Mantis for Ultrawide installation instructions.
 - St Jiub for additional Ultrawide instructions.
+- Catir for the new logo for the list.
 - My amazing Patreons.
 
 ## Contact
