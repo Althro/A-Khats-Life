@@ -1,5 +1,46 @@
 # Changelog
 
+## 1.5 - Major Update - ***Not Save Compatible***
+
+**Build at:** `27/07/2021 23:33:10`
+
+**Info**:
+
+- Download Size change: 1.2GB (Total: 64.8GB)
+- Install Size change: 6.5GB (Total: 71.6GB)
+
+**Download Changes**:
+
+- Updated [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=211335)
+- Updated [Blood for Septimus Signus SSE PC ESL](https://www.nexusmods.com/skyrimspecialedition/mods/18919/?tab=files&file_id=196260)
+- Updated [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885/?tab=files&file_id=214791)
+- Updated [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34228/?tab=files&file_id=214792)
+- Updated [Dwemer Spectres Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/8016/?tab=files&file_id=216953)
+- Updated [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810/?tab=files&file_id=211885)
+- Updated [Goldenglow Is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/25155/?tab=files&file_id=216503)
+- Updated [Land of Vominheim SE](https://www.nexusmods.com/skyrimspecialedition/mods/31472/?tab=files&file_id=214653)
+- Updated [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788/?tab=files&file_id=212277)
+- Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=214665)
+- Updated [Torch Remover](https://www.nexusmods.com/skyrimspecialedition/mods/33381/?tab=files&file_id=214593)
+- Updated [Where in Special Edition am I](https://www.nexusmods.com/skyrimspecialedition/mods/30907/?tab=files&file_id=216829)
+- Updated [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=211839)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=217071)
+- Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=214340)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=215065)
+- Updated [JS Purses and Septims SE](https://www.nexusmods.com/skyrimspecialedition/mods/37306/?tab=files&file_id=214078)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=215915)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=215916)
+- Updated [Illustrious Whiterun SE](https://www.nexusmods.com/skyrimspecialedition/mods/28950/?tab=files&file_id=169327)
+- Updated [Illustrious Whiterun SE](https://www.nexusmods.com/skyrimspecialedition/mods/28950/?tab=files&file_id=217115)
+- Updated [Masculine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=215020)
+- Removed [Skyrim Reputation](https://www.nexusmods.com/skyrimspecialedition/mods/22374/?tab=files&file_id=117415)
+- Removed [Skyrim Reputation - Fixed and Patched](https://www.nexusmods.com/skyrimspecialedition/mods/42538/?tab=files&file_id=176537)
+- Removed Tinvaak Grass Cache.7z
+- Added [Class Overhaul Re-Imagined (SkyRem - Cori)](https://www.nexusmods.com/skyrimspecialedition/mods/24808/?tab=files&file_id=185694)
+- Added Tinvaak1dot5GeneratedFiles.7z
+- Added [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=217056)
+- Added [enbseries_skyrimse_v0460.zip](http://enbdev.com/enbseries_skyrimse_v0460.zip)
+
 ## 1.4.6 - Minor Update
 
 **Note**: ***Not Save Compatible*** due to changing follower framework.
