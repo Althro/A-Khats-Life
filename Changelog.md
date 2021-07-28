@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.5.1 - Hotfix
+
+Note: Quick hotfix to fix the issues with Whiterun and some cave textures. Should be save compatible.
+
+**Build at:** `28/07/2021 21:21:08`
+
+**Info**:
+
+- Download Size change: -328MB (Total: 65.1GB)
+- Install Size change: -1.3GB (Total: 72.9GB)
+
+**Download Changes**:
+
+- Removed Tinvaak1dot5GeneratedFiles.7z
+- Added TinvaakGeneratedFiles.7z
+- Added [Illustrious Whiterun SE](https://www.nexusmods.com/skyrimspecialedition/mods/28950/?tab=files&file_id=169093)
+- Added [Northfire's Dungeons (nordic ruins and caves)](https://www.nexusmods.com/skyrimspecialedition/mods/37740/?tab=files&file_id=156544)
+
 ## 1.5 - Major Update - ***Not Save Compatible***
 
 **Build at:** `27/07/2021 23:33:10`
