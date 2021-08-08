@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.6 - Bug fixes and Winterhold rework
+
+**Build at:** `08/08/2021 23:17:28`
+
+**Info**:
+
+- Fixed issue with Reproccer not carrying data correctly.
+- A few minor consistency fixes.
+- Download Size change: -191MB (Total: 65.8GB)
+- Install Size change: 60.4MB (Total: 73.5GB)
+
+**Download Changes**:
+
+- Updated [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075/?tab=files&file_id=219520)
+- Updated [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000/?tab=files&file_id=219515)
+- Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=217459)
+- Removed [Capital of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/34222/?tab=files&file_id=192970)
+- Removed [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000/?tab=files&file_id=197271)
+- Removed [Toll's ENB Manager (BETA)](https://www.nexusmods.com/skyrimspecialedition/mods/37469/?tab=files&file_id=147354)
+- Removed [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+- Added [ClefJ's Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/41409/?tab=files&file_id=217168)
+- Added [ClefJ's Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/41409/?tab=files&file_id=217026)
+- Added [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
+- Added [xLODGen.84.7z](https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg)
+
 ## 1.5.1 - Hotfix
 
 Note: Quick hotfix to fix the issues with Whiterun and some cave textures. Should be save compatible.
