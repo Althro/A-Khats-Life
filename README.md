@@ -24,8 +24,7 @@ Wabbajack Modlist Installer by Althro.
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#game-folder-files)
-    - [ENB](#enb)
+    - [Activate Essential Files](#activate-essential-files)
   - [How to start up Tinvaak](#how-to-start-up-tinvaak)
   - [Updating](#updating)
   - [Changes to Gameplay](#Changes-to-Gameplay) 
@@ -158,25 +157,22 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
-### Game folder Files
+### Activate the Essential Files
 
-Copy the all of the files from the `Tinvaak/Game Folder Files` directory into your Skyrim Special Edition game folder.
+Firstly, run the program named `Files To Copy` from Mod Organizer 2. This step will copy across all the required files for list such as SKSE, Engine Fixes and other files.
 
-### ENB
+![image](https://raw.githubusercontent.com/Althro/Tinvaak/main/assets/images/Launch%20File%20Manager.png)
 
-Tinvaak comes with two ENB's and [Tolls ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) is included to help facilitate the easy changing of ENB profiles. To setup the ENB manager:
+If the image below comes up, simply press OK. It is nothing to be concerned about.
+![image](https://raw.githubusercontent.com/Althro/Tinvaak/main/assets/images/Ignore%20Warning.png)
 
-1. Open up the folder called Tools where you have the modlist installed.
-2. Navigate to the folder called Tolls ENB Manager and open it.
-3. Double click on ENBManager.exe
-4. Set the path to where your Skyrim Special is installed (In my case, it's C:/Games/steam/steamapps/common/Skyrim Special Edition)
-5. Click on presets in the top row and press the "Add New Preset" button
-6. Press the browse button underneath files.
-7. Navigate to where you were before in the Tools Folder. You will see a folder called "ENB Profiles". Select the one you wish to use and press open.
-8. The name should auto-populate. If it does not, give it a suitable name such as "Ruvaak"
-9. Press the Save button.
-10. To enable the profile, click on the white circle slider.
-11. Your chosen ENB Profile is now installed.
+Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
+
+![image](https://raw.githubusercontent.com/Althro/Tinvaak/main/assets/images/Select%20Profile.png)
+
+Activate the Profile named `Game Folder Files`. You can then pick which ENB you wish to use. Organic ENB is custom tweaked for the list but can be heavier on lower end systems. If you prefer a more neutral colour pallet, you can use Re-Engaged which is the performance version.
+
+![image](https://raw.githubusercontent.com/Althro/Tinvaak/main/assets/images/Activate%20Choices.png)
 
 ## How to start up Tinvaak
 
