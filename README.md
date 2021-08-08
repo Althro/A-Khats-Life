@@ -333,21 +333,6 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
   - Under `[Render]`
     - Set Fullscreen to `True`
     - Set Borderless to `False`
-    
-## 360 Behavior Overhaul
-
-If you save in first person and load that save 360 behavior will fail. Save and load in 3rd person to have correct 3rd person facing behavior.
-
-## Dialogue
-
-If you are experiencing dialogue saying that you are Thane of Whiterun or Dragonborn when you wish to not be, follow these steps. **You will need to re-enable these if you decide to become Dragonborn/Become Thane of Whiterun**.
-
-- Make sure you are in world and not in the starting area.
-- Open MCM menu
-- Scroll down to Skyrim Reputation and click on it
-- Select Debug
-- Uncheck Thane of Whiterun and Dragonborn comments.
-- Close MCM.
 
 ## Removing the Modlist
 
