@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.6.1
+
+**Build at:** `10/08/2021 20:04:17`
+
+**Info**:
+
+- Fixed floating objects issue in Winterhold Inn.
+- Fixed issue with levelled list crashes.
+- Download Size change: -2.1KB (Total: 65.8GB)
+- Install Size change: -2.5MB (Total: 73.5GB)
+
+**Download Changes**:
+
+- Updated [Reproccer Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17913/?tab=files&file_id=220026)
+
 ## 1.6 - Bug fixes and Winterhold rework
 
 **Build at:** `08/08/2021 23:17:28`
