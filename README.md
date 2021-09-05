@@ -5,10 +5,9 @@
 
 Wabbajack Modlist Installer by Althro.
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/Tinvaak/badge.json) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/Tinvaak/badge.json) 
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
@@ -56,6 +55,9 @@ This work is licensed under a
 Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist for SkyrimSE that focuses on revitalising and reworking Skyrim into an actual roleplaying game. Featuring T3NDO's Skyrim Redone, Skyrim Unbound, Oblivion influenced classes and birthsigns and an optional suite of survival mods, you can be anyone you wish.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
 
