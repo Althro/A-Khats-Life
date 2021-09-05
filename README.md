@@ -5,7 +5,16 @@
 
 Wabbajack Modlist Installer by Althro.
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/Tinvaak/badge.json)
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/Tinvaak/badge.json) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 - [Tinvaak](#Tinvaak)
   - [Preamble](#preamble)
@@ -36,8 +45,6 @@ Wabbajack Modlist Installer by Althro.
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
 	- [Tweaking the ENB](#tweaking-the-enb)
     - [Zoomed in Display](#zoomed-in-display)
-    - [360 Behavior Overhaul](#360-behavior-overhaul)
-    - [Dialogue](#dialogue)
     - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -70,10 +77,10 @@ Recommended Specs for 1440p:
 
 I run the list at locked 72fps with a few dips here and there at 1440p on the following specs:
 
-- Ryzen 5 3600
+- Ryzen 7 5800X
 - 32GB 3600mhz Ram
 - PCIe Based NVME SSD
-- XFX RX 6800 16GB
+- XFX Merc RX 6800 16GB
 
 Space required: Approx 140GB
 
@@ -159,7 +166,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ### Activate the Essential Files
 
-Firstly, run the program named `Files To Copy` from Mod Organizer 2. This step will copy across all the required files for list such as SKSE, Engine Fixes and other files.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Run the program named `Files To Copy` from Mod Organizer 2. This step will copy across all the required files for list such as SKSE, Engine Fixes and other files.
 
 ![image](https://raw.githubusercontent.com/Althro/Tinvaak/main/assets/images/Launch%20File%20Manager.png)
 
@@ -298,7 +305,7 @@ By default, Tinvaak ships with an ENB profile that has been custom tweaked to ma
 
 To remove the letterbox effect:
 - Press [Shift+Enter] to open the ENB menu
-- In the right tab called Shader parameters, there is a section called `ENBPOSTPASS.FX`. Select it to open it.
+- In the right tab called Shader parameters, there is a section called `ENBEFFECT.FX`. Select it to open it.
 - Scroll down to letterbox and disable it.
 - Press the save configuration button.
 - You have now disabled letterbox and can press [shift+enter] to return to game.
@@ -333,21 +340,6 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
   - Under `[Render]`
     - Set Fullscreen to `True`
     - Set Borderless to `False`
-    
-## 360 Behavior Overhaul
-
-If you save in first person and load that save 360 behavior will fail. Save and load in 3rd person to have correct 3rd person facing behavior.
-
-## Dialogue
-
-If you are experiencing dialogue saying that you are Thane of Whiterun or Dragonborn when you wish to not be, follow these steps. **You will need to re-enable these if you decide to become Dragonborn/Become Thane of Whiterun**.
-
-- Make sure you are in world and not in the starting area.
-- Open MCM menu
-- Scroll down to Skyrim Reputation and click on it
-- Select Debug
-- Uncheck Thane of Whiterun and Dragonborn comments.
-- Close MCM.
 
 ## Removing the Modlist
 
@@ -355,20 +347,20 @@ You can just delete the MO2 folder and be done with it.
 
 ## Credits and Thanks
 
-- _YOU_ for actually reading the readme. Thanks a ton!!
-- Galaxy Synth (Shelb) for help in the creation, configuration and setup.
-- Sovn for teaching me the CK and consistency.
+- _YOU_ for reading this. Thank you.
+- Galaxy Synth for help in the creation, configuration and setup.
 - Pierre Despereaux for Keizaal, from which a few mods are derived.
 - Noggog for Mutagen.
 - Special thanks to the Synthesis patcher devs.
 - erri120 & jdsmith2816 - Repository template.
 - jdsmith2816 - Reviving SkyRe, the Reproccer, and having a magnificent beard.
-- iXanza for recompiled MCM scripts for automation, and helping Shelb figure out how to automate the MCMs for Tinvaak.
+- iXanza for recompiled MCM scripts for automation, and helping Galaxy figure out how to automate the MCMs for Tinvaak.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - Mantis for Ultrawide installation instructions.
 - St Jiub for additional Ultrawide instructions.
 - Catir for the new logo for the list.
 - My amazing Patreons.
+- Everyone who has helped support the list both in the Animonculory and WJ server.
 
 ## Contact
 
