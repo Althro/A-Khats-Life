@@ -65,7 +65,7 @@ Tinvaak is aimed at mid to higher end machines in terms of system requirements.
 
 Recommended Specs for 1080p:
 
-- 2nd Gen Ryzen / 7th Gen Intel i5 or better
+- Modern Quad Core processor such as the intel "core" series or AMD "Ryzen" series.
 - 16GB Ram
 - SSD
 - 6GB GPU such as GTX 1660 Super or RX 5600xt
